@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I’m a BTech AIML student who enjoys building machine learning and full-stack projects focused on real-world problem solving. I’m currently working on projects involving ML models, backend development, and end-to-end systems, and I’m open to collaborating on open-source work in these areas. I’m actively learning deep learning concepts, backend testing, and deployment workflows, and I’m always looking to improve model performance and engineering best practices. You can ask me about machine learning fundamentals, Python projects, or building simple full-stack applications. I enjoy turning complex problems into simple, working solutions 
+I’m a BTech AIML student who enjoys building machine learning and full-stack projects focused on real-world problem solving. I’m currently working on projects involving ML models, backend development, APIs, and end-to-end systems. I’m actively learning deep learning concepts, backend testing, API development, and deployment workflows, and I’m always looking to improve model performance, code quality, and problem-solving skills. I’m also exploring how to build AI-driven applications and scalable backend systems. I’m focused on building efficient, real-world AI and backend systems, with an interest in improving performance and scalability.
+
+You can ask me about machine learning fundamentals, Python projects, APIs, or building simple full-stack applications. I enjoy turning complex problems into simple, working solutions.
 
 
 ## 🌐 Socials:
